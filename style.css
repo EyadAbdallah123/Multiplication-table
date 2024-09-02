@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  font-family: monospace;
+  background-color: #0060a6;
+}
+.controller {
+  background-color: whitesmoke;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 7px;
+  font-size: 15px;
+  font-weight: bolder;
+  box-shadow: 0 4px 8px black;
+}
+h1 {
+  color: white;
+  text-shadow: 2px 2px 5px #5eb0eb;
+}
+table {
+  margin: 50px auto;
+  border: white;
+}
+td {
+  width: 3vw;
+  height: 3vw;
+  padding: 3px;
+  border: 2px solid rgb(70, 69, 69);
+}
+table,
+td {
+  background-color: white;
+  border: solid;
+  text-align: center;
+}
+.x,
+.square {
+  background-color: #0060a6;
+  color: white;
+  border: black solid 2px;
+  font-weight: bold;
+}
+.first-row,
+.first-col {
+  background-color: orangered;
+  color: white;
+  font-weight: bold;
+  border: black solid 2px;
+}
